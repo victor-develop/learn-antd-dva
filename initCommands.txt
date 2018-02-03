@@ -1,0 +1,26 @@
+    1  ls
+    2  clear
+    3  npm install dva-cli -g
+    4  clear
+    5  dva -v
+    6  dva new dva-quickstart
+    7  ls
+    8  clear
+    9  cd dva-quickstart/
+   10  npm start
+   11  clear
+   12  npm install antd babel-plugin-import --save
+   13  npm install antd babel-plugin-import --save
+   14  sudo npm install antd babel-plugin-import --save
+   15  npm install antd babel-plugin-import --save
+   16  npm install antd --save
+   17  npm install fsevents --save
+   18  npm install antd --save
+   19  npm install babel-plugin-import --save
+   20  clear
+   21  cd ..
+   22  ls
+   23  chmod 777 -R dva-quickstart/
+   24  ls
+   25  clear
+   26  history > initCommands.txt
